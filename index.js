@@ -6,7 +6,7 @@ const toastOptions = {
     position: "right",
     backgroundColor: "#FFB74D",
     style: {
-        borderRadius: "10px",
+        borderRadius: "14px",
         border: "2px solid #FF9800",
     }
 };
